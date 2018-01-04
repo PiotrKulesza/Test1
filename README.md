@@ -7,7 +7,7 @@
 int a;
 cout<< Proszę podać liczbę:"
 cin>>a;
-
+1
 
 
 
